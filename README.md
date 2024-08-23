@@ -1,5 +1,6 @@
+## Podeis ir echando un ojo en mi Portfolios que es una aplicación web completa ##
 ## https://www.kronexilane.org ##
-## Podeis ir echando un ojo aquí mientras transformo esto en algo bonito :-) 👋😎👌 ##
+## Mientras transformo esto en algo bonito 😎👌 ##
 
 <!--
 **Kronexilane-Sistemas/Kronexilane-Sistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
