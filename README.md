@@ -1,4 +1,4 @@
-[Banner](/img/banner.jpg)
+[Banner](img/banner.jpg)
 ## Podeis ir echando un ojo en mi Portfolios que es una aplicación web completa ##
 ## https://www.kronexilane.org ##
 ## Mientras transformo esto en algo bonito 😎👌 ##
