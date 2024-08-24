@@ -9,11 +9,6 @@ Mi nombre real es Sergio, y publico mis trabajos de desarrollo, estudio e invest
 
 ### Formas de contacto
 
-<p align="justify">
-Podeis encontrarme en la dirección de correo electrónico que específico a continuación o en mi perfil de Linkedin.
-
-</p>
-
 #### Correo electrónico: sergio.perpina.moreno@gmail.com
 #### Perfíl de Linkedin: https://www.linkedin.com/in/kronexilane/
 #### Portafolios KCP: https://www.kronexilane.org/#/objects/Principal.presentation.nsContact
